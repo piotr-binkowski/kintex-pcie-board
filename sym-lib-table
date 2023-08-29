@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "/home/pbinkowski/Documents/Kicad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "MPM54304GMN-0000")(type "KiCad")(uri "/home/pbinkowski/projects/kicad-libs/ul/MPM54304GMN-0000.kicad_sym")(options "")(descr ""))
+  (lib (name "MPM3683GQN-7-P")(type "KiCad")(uri "/home/pbinkowski/projects/kicad-libs/ul/MPM3683GQN-7-P.kicad_sym")(options "")(descr ""))
+  (lib (name "mpm")(type "KiCad")(uri "/home/pbinkowski/Documents/Kicad/mpm/mpm.kicad_sym")(options "")(descr ""))
+)

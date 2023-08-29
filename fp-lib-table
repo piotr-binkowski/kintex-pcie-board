@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "/home/pbinkowski/Documents/Kicad/easyeda2kicad/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/home/pbinkowski/projects/kicad-libs/ul/footprints.pretty")(options "")(descr ""))
+  (lib (name "mpm")(type "KiCad")(uri "/home/pbinkowski/Documents/Kicad/mpm/mpm.pretty")(options "")(descr ""))
+)
